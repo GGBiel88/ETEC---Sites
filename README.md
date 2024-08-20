@@ -198,7 +198,7 @@
         function changeTheme(theme) {
             if (theme === 'dark') {
                 document.documentElement.style.setProperty('--background-color', '#333');
-                document.documentElement.style.setProperty('--text-color', '#f0f0f0');
+                document.documentElement.style.setProperty('--text-color', '#00000');
                 document.documentElement.style.setProperty('--button-bg-color', '#444');
                 document.documentElement.style.setProperty('--button-hover-color', '#555');
                 document.documentElement.style.setProperty('--highlight-color', '#222');
